@@ -4,7 +4,7 @@ import { Masajista } from "./masajista";
 
 export class SeleccionFutbol {
   protected pais: string;
-  protected listadoFutbolista: Futbolista[];
+  protected listadoFutbolista: Futbolista[]; 
   protected listadoEntrenador: Entrenador[];
   protected listadoMasajista: Masajista[];
   
